@@ -14,7 +14,7 @@ This issue will be fixed as early as possible.
 ## Steps to run project :
 
 ## Open your terminal or vs code and write this commands -
-1) git clone https://github.com/Pranav122002/multi-gaming-chatting.git
+1) git clone https://github.com/OmNevase/Multi-Gaming-Website.git
 2) cd multi-gaming-chatting
 3) npm install
 4) npm start
